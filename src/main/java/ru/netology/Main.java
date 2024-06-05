@@ -6,8 +6,8 @@ public class Main {
         post.Name = "Иван";
         post.Surname = "Иванов";
         post.Patronymic = "Иванович";
-        post.Passport ="4444 № 444444" ;
-        post.Phone = "+79999999999 " ;
+        post.Passport = "4444 № 444444";
+        post.Phone = "+79999999999 ";
         post.Subscription = true;
 
         FormDate formDate = new FormDate();
