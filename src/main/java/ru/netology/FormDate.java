@@ -1,7 +1,7 @@
 package ru.netology;
 
 public class FormDate {
-    public int Date;
-    public int Month;
-    public int Year;
+    public int date;
+    public int month;
+    public int year;
 }

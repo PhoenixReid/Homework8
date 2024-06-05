@@ -1,10 +1,10 @@
 package ru.netology;
 
 public class Post {
-    public String Name;
-    public String Surname;
-    public String Patronymic;
-    public String Phone;
-    public String Passport;
-    public Boolean Subscription;
+    public String name;
+    public String surname;
+    public String patronymic;
+    public String phone;
+    public String passport;
+    public Boolean subscription;
 }
